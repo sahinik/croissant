@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background-color: rgb(250, 241, 231);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(255, 176, 80);
+  padding: 10px;
+  padding-top: 40px;
+}
+
+.mail {
+  color: brown;
+}
+
+img {
+  max-width: 600px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border: 1px solid bisque;
+}
